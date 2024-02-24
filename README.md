@@ -21,6 +21,7 @@
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Java](https://skillicons.dev/icons?i=java)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![Python](https://skillicons.dev/icons?i=python)
 
 ## Bancos de Dados
