@@ -20,9 +20,10 @@
 ![C#](https://skillicons.dev/icons?i=cs)
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
-![Python](https://skillicons.dev/icons?i=python)
+![Angular](https://skillicons.dev/icons?i=angular)
 
 ## Bancos de Dados
 ![MySQL](https://skillicons.dev/icons?i=mysql)
