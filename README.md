@@ -29,6 +29,13 @@
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 
+## Bancos de Dados
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws" />
+  </a>
+</p>
+
 ## Habilidades Específicas
 - Desenvolvimento Back-end
 - Visão Computacional
